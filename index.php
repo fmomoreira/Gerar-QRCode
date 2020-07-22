@@ -6,7 +6,7 @@ use chillerlan\QRCode\{QRCode, QROptions};
 
 require_once __DIR__.'./vendor/autoload.php';
 
-$data = 'https://123pagou.com.br/terminaldepagamento/';
+$data = 'https://www.linkedin.com/in/felipemoreirafrontend/';
 
 //quick and simple:
 
