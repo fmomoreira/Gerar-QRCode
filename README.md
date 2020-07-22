@@ -1,4 +1,4 @@
-# chillerlan/php-qrcode
+# Gerar-QRCode
 
 A PHP 7.4+ QR Code library based on the [implementation](https://github.com/kazuhikoarase/qrcode-generator) by [Kazuhiko Arase](https://github.com/kazuhikoarase),
 namespaced, cleaned up, improved and other stuff.
